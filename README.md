@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="left">Hi 👋! My name is Arghya das dev and I'm a , from ....</h2>
+<h2 align="left">Hi 👋! My name is Arghya das dev and I'm a , from  Bangalore </h2>
 
 ###
 
